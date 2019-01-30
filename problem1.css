@@ -1,0 +1,42 @@
+.common
+{
+    background-color:gray;
+    padding: 1.5%;
+    border: solid black 1px;
+    margin: 1.5%;
+
+}
+
+
+header
+{
+    clear:both;
+
+}
+section
+{
+    float: left;
+   width:55%;
+
+}
+aside
+{
+    float: right;
+    width:30%;
+
+}
+footer
+{
+    clear:both;
+}
+article
+{
+    position:relative;
+}
+.centerthis
+{
+
+    position: relative;
+    text-align: center;
+
+}
